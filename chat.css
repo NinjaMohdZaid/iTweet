@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    color:black;
+}
+h2{
+    color:#18c3ac;
+    margin:auto;
+}
+h1
+{
+    color:black;
+}
+#chatContainer
+{
+  display:flex;
+  flex-direction: column-reverse;
+  background-color:black;
+}
+chat{
+    background: #d4ecf5;
+    border: 2px solid #1f6fb3;
+    margin: 1vh;
+    border-top-left-radius: 7vh;
+    border-bottom-right-radius: 7vh;
+    padding: 2vh;
+}
+#readTweetsHeading{
+    background-color:black;
+    text-align: center;
+}
