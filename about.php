@@ -39,9 +39,8 @@ So keep using this this app and enjoy.With the strangers.</p><br><hr>
 <h3>About Developer</h3>
 <p>
     This web application is developed by Ninja Mohd Zaid.He is a student of Diploma In Computer
-    Engineering From Jamia millia islamia University,New Delhi.He is a Full Stack Developer.He Knows many programming 
-    Languages like C,C++,Java,PHP,JavaScript,NodeJs and many more.Also he have a knowledge to use PUG engine in NodeJS.
-    He is From Taharpur village of Moradabad city which is located in Uttar Pradesh.
+    Engineering From Jamia millia islamia University,New Delhi.Currently working on CS-Cart E-Commerce
+     Project based on php html css javascript smarty and many other techs.
 </p>
 </div>
 </body>
