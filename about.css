@@ -1,0 +1,63 @@
+*{
+    margin:0;
+    padding:0;
+    color:rgb(114, 240, 208);
+}
+#nav
+{
+    background:black;
+    font-weight: bold;
+    position:fixed;
+    width:100vw;
+    margin-top:-12vh;
+}
+#nav ul{
+    display:flex;
+}
+#nav ul li{
+    list-style: none;
+    margin:22px;
+}
+#nav ul li img
+{
+    width:5vw;
+    height:2vh;
+}
+#nav ul li a{
+    text-decoration: none;
+}
+#nav a:hover{
+    color:rgb(114, 240, 208);
+}
+#about
+{
+    background-color: #d4ecf5;
+    margin-top:12vh;
+    border:2px solid #1f6fb3;
+    border-top-left-radius: 7vh;
+    border-bottom-right-radius: 7vh;
+    padding:2vh;
+}
+#aboutLogo
+{
+ display:flex;
+ flex-direction:column;
+ align-items:center;
+ justify-content: center;
+}
+#aboutLogo img{
+    width:6vw;
+}
+p{
+    color:black;
+    font-weight: bold;
+}
+#aboutApp{
+    padding:5vh;
+}
+#developerImage
+{
+    width: 77vw;
+    height: 41vh;
+    border-radius: 2vh
+}
